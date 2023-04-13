@@ -1,0 +1,1 @@
+REPORT Z_STRING1 .
