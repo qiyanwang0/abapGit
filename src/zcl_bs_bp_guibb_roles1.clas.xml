@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_BS_BP_GUIBB_ROLES1</CLSNAME>
+     <CMPNAME>FILTER_EMPLOYEE_ROLES</CMPNAME>
+     <LANGU>J</LANGU>
+     <DESCRIPT>Filter Employee Roles</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_BS_BP_GUIBB_ROLES1</CLSNAME>
+     <CMPNAME>GET_VALUE_SET_PARTNERROLE</CMPNAME>
+     <LANGU>J</LANGU>
+     <DESCRIPT>Returns the value set for field PARTNERROLE</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_BS_BP_GUIBB_ROLES1</CLSNAME>
+     <CMPNAME>OVS_OUTPUT_PARTNERROLE</CMPNAME>
+     <LANGU>J</LANGU>
+     <DESCRIPT>Returns the value table for field PARTNERROLE</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

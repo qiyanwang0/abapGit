@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_MDG_SF_GUIBB_FORM2</CLSNAME>
+     <CMPNAME>C</CMPNAME>
+     <LANGU>J</LANGU>
+     <DESCRIPT>単一文字フラグ</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_MDG_SF_GUIBB_FORM2</CLSNAME>
+     <CMPNAME>MV_ORIG_PAGE_TITLE</CMPNAME>
+     <LANGU>J</LANGU>
+     <DESCRIPT>Original Page Title (w/o Entity Key)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_MDG_SF_GUIBB_FORM2</CLSNAME>
+     <CMPNAME>M_COUNTRY</CMPNAME>
+     <LANGU>J</LANGU>
+     <DESCRIPT>Country Key</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_MDG_SF_GUIBB_FORM2</CLSNAME>
+     <CMPNAME>OVS_OUTPUT_CITIES_FROM</CMPNAME>
+     <LANGU>J</LANGU>
+     <DESCRIPT>Cities for F4</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_MDG_SF_GUIBB_FORM2</CLSNAME>
+     <CMPNAME>OVS_OUTPUT_CITIES_TO</CMPNAME>
+     <LANGU>J</LANGU>
+     <DESCRIPT>Cities for F4</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

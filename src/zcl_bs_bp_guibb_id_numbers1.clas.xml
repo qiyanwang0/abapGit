@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_BS_BP_GUIBB_ID_NUMBERS1</CLSNAME>
+     <CMPNAME>CV_COUNT</CMPNAME>
+     <LANGU>J</LANGU>
+     <DESCRIPT>未定義の範囲 (パッチレベルに使用できます)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_BS_BP_GUIBB_ID_NUMBERS1</CLSNAME>
+     <CMPNAME>GET_VALUE_SET_ID_TYPE</CMPNAME>
+     <LANGU>J</LANGU>
+     <DESCRIPT>Returns the value set for an attribute</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_BS_BP_GUIBB_ID_NUMBERS1</CLSNAME>
+     <CMPNAME>GT_ID_TYPE_PROPTY</CMPNAME>
+     <LANGU>J</LANGU>
+     <DESCRIPT>BP ID Categories</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_BS_BP_GUIBB_ID_NUMBERS1</CLSNAME>
+     <CMPNAME>MS_OVS_STATIC_ATTRIBUTES</CMPNAME>
+     <LANGU>J</LANGU>
+     <DESCRIPT>Structure for BP Identification Numbers</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_BS_BP_GUIBB_ID_NUMBERS1</CLSNAME>
+     <CMPNAME>OVS_OUTPUT_REGION</CMPNAME>
+     <LANGU>J</LANGU>
+     <DESCRIPT>OVS Phase 2 (Determine result table) for REGION</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
